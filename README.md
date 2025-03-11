@@ -34,5 +34,3 @@ Real-World Application
 🔹 Credit Card Companies → Setting credit limits
 🔹 Insurance Companies → Assessing financial reliability of customers
 🔹 Employers → Financial background checks
-
-Would you like a dataset example or a step-by-step solution approach next? 
